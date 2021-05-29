@@ -1,0 +1,45 @@
+<div class="main-content">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-8">
+        <div class="card">
+          <div class="container" fxLayout="column" fxLayoutGap="10px">
+            <div fxFlex>
+              <div>
+                <h3>Topics</h3>
+                <hr />
+              </div>
+            </div>
+            <div fxFlex *ngIf="topics">
+              <mat-grid-list cols="2" rowHeight="80px">
+                <mat-grid-tile
+                  *ngFor="let topic of topics"
+                  [routerLink]="['/subtopic', topic.id]"
+                  appHighlight
+                >
+                    <div class="card-body">
+                      <div class="table-responsive">
+                    {{ topic.name | uppercase }}<br />{{
+                      topic.attempt
+                    }}/{{ topic.subtopic }} concept practiced
+                    </div>
+                    </div>
+                  </mat-grid-tile>
+              </mat-grid-list>
+            </div>
+            <div [hidden]="topics || errMess">
+              <mat-spinner></mat-spinner>
+              <h4>Loading . . . Please Wait</h4>
+            </div>
+
+            <div fxFlex *ngIf="errMess">
+              <h2>Error</h2>
+              <h4>{{ errMess }}</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+

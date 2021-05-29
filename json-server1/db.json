@@ -1,0 +1,426 @@
+{
+  "subjects": [
+    {
+      "id": "0",
+      "name": "Physics",
+      "image": "images/physics.png",
+      "chapters": "142",
+      "videos": "165"
+    },
+    {
+      "id": "1",
+      "name": "Chemsistry",
+      "image": "images/chemistry.jpg",
+      "chapters": "137",
+      "videos": "152"
+    },
+    {
+      "id": "2",
+      "name": "Biology",
+      "image": "images/biology.jpg",
+      "chapters": "130",
+      "videos": "147"
+    },
+    {
+      "id": "3",
+      "name": "Mathematics",
+      "image": "images/mathematics.jpg",
+      "chapters": "110",
+      "videos": "115"
+    }
+  ],
+  "chapters": [
+   {
+	"id":"0",
+        "sid":"0",
+	"name":"magnetism",
+	"attempt":"1",
+	"topic":"32"
+   },
+   {
+	"id":"1",
+        "sid":"0",
+	"name":"wave",
+	"attempt":"5",
+	"topic":"30"
+   },
+   {
+	"id":"2",
+	 "sid":"0",
+	"name":"optics",
+	"attempt":"15",
+	"topic":"40"
+   },
+   {
+	"id":"3",
+	 "sid":"0",
+	"name":"semiconductor",
+	"attempt":"5",
+	"topic":"30"
+   },
+   {
+	"id":"4",
+	 "sid":"0",
+	"name":"electrostatics",
+	"attempt":"5",
+	"topic":"30"
+   },
+   {
+	"id":"5",
+	 "sid":"0",
+	"name":"cuurent electricity",
+	"attempt":"3",
+	"topic":"28"
+   },
+   {
+	"id":"6",
+	 "sid":"0",
+	"name":"magnetism",
+	"attempt":"1",
+	"topic":"32"
+   },
+   {
+	"id":"7",
+	 "sid":"0",
+	"name":"wave",
+	"attempt":"5",
+	"topic":"30"
+   },
+   {
+	"id":"8",
+	 "sid":"3",
+	"name":"optics",
+	"attempt":"15",
+	"topic":"40"
+   },
+   {
+	"id":"9",
+	 "sid":"0",
+	"name":"semiconductor",
+	"attempt":"5",
+	"topic":"30"
+   },
+   {
+	"id":"10",
+	 "sid":"0",
+	"name":"electrostatics",
+	"attempt":"5",
+	"topic":"30"
+   },
+   {
+	"id":"11",
+	 "sid":"0",
+	"name":"current electricity",
+	"attempt":"3",
+	"topic":"28"
+   },
+   {
+	"id":"12",
+	 "sid":"0",
+	"name":"magnetism",
+	"attempt":"1",
+	"topic":"32"
+   },
+   {
+	"id":"13",
+	 "sid":"0",
+	"name":"wave",
+	"attempt":"5",
+	"topic":"30"
+   },
+   {
+	"id":"14",
+	 "sid":"3",
+	"name":"optics",
+	"attempt":"15",
+	"topic":"40"
+   },
+   {
+	"id":"15",
+	 "sid":"3",
+	"name":"semiconductor",
+	"attempt":"5",
+	"topic":"30"
+   },
+   {
+	"id":"16",
+	 "sid":"0",
+	"name":"electrostatics",
+	"attempt":"5",
+	"topic":"30"
+   },
+   {
+	"id":"17",
+	 "sid":"0",
+	"name":"cuurent electricity",
+	"attempt":"3",
+	"topic":"28"
+   },
+   {
+	"id":"18",
+	 "sid":"0",
+	"name":"magnetism",
+	"attempt":"1",
+	"topic":"32"
+   },
+   {
+	"id":"19",
+	 "sid":"3",
+	"name":"wave",
+	"attempt":"5",
+	"topic":"30"
+   },
+   {
+	"id":"3",
+	 "sid":"0",
+	"name":"optics",
+	"attempt":"15",
+	"topic":"40"
+   },
+   {
+	"id":"20",
+	 "sid":"0",
+	"name":"semiconductor",
+	"attempt":"5",
+	"topic":"30"
+   },
+   {
+	"id":"21",
+	"sid":"3",
+	"name":"electrostatics",
+	"attempt":"5",
+	"topic":"30"
+   },
+   {
+	"id":"22",
+	 "sid":"0",
+	"name":"cuurent electricity",
+	"attempt":"3",
+	"topic":"28"
+   },
+   {
+	"id":"23",
+	 "sid":"1",
+	"name":"The solid state",
+	"attempt":"4",
+	"topic":"25"
+   },
+   {
+	"id":"24",
+	"sid":"1",
+	"name":"solutions",
+	"attempt":"1",
+	"topic":"25"
+   },
+   {
+	"id":"25",
+	 "sid":"3",
+	"name":"Electro Chemistry",
+	"attempt":"2",
+	"topic":"29"
+   },
+   {
+	"id":"26",
+	 "sid":"1",
+	"name":"Chemical Kinetics",
+	"attempt":"4",
+	"topic":"25"
+   },
+   {
+	"id":"27",
+	 "sid":"1",
+	"name":"Coordination Compounds",
+	"attempt":"4",
+	"topic":"25"
+   },
+   {
+	"id":"28",
+	 "sid":"1",
+	"name":"Surface Chemistry",
+	"attempt":"4",
+	"topic":"25"
+   },
+   {
+	"id":"29",
+	 "sid":"3",
+	"name":"The solid state",
+	"attempt":"4",
+	"topic":"25"
+   },
+   {
+	"id":"30",
+	"sid":"3",
+	"name":"solutions",
+	"attempt":"1",
+	"topic":"25"
+   },
+   {
+	"id":"31",
+	 "sid":"1",
+	"name":"Electro Chemistry",
+	"attempt":"2",
+	"topic":"29"
+   },
+   {
+	"id":"32",
+	 "sid":"1",
+	"name":"Chemical Kinetics",
+	"attempt":"4",
+	"topic":"25"
+   },
+   {
+	"id":"33",
+	 "sid":"1",
+	"name":"Coordination Compounds",
+	"attempt":"4",
+	"topic":"25"
+   },
+   {
+	"id":"34",
+	 "sid":"1",
+	"name":"Surface Chemistry",
+	"attempt":"4",
+	"topic":"25"
+   },
+      {
+	"id":"35",
+	 "sid":"2",
+	"name":"The solid state",
+	"attempt":"4",
+	"topic":"25"
+   },
+   {
+	"id":"36",
+	"sid":"2",
+	"name":"solutions",
+	"attempt":"1",
+	"topic":"25"
+   },
+   {
+	"id":"37",
+	 "sid":"2",
+	"name":"Electro Chemistry",
+	"attempt":"2",
+	"topic":"29"
+   },
+   {
+	"id":"38",
+	 "sid":"2",
+	"name":"Chemical Kinetics",
+	"attempt":"4",
+	"topic":"25"
+   },
+   {
+	"id":"39",
+	 "sid":"2",
+	"name":"Coordination Compounds",
+	"attempt":"4",
+	"topic":"25"
+   },
+   {
+	"id":"40",
+	 "sid":"2",
+	"name":"Surface Chemistry",
+	"attempt":"4",
+	"topic":"25"
+   },
+   {
+	"id":"41",
+	 "sid":"2",
+	"name":"The solid state",
+	"attempt":"4",
+	"topic":"25"
+   },
+   {
+	"id":"42",
+	"sid":"2",
+	"name":"solutions",
+	"attempt":"1",
+	"topic":"25"
+   },
+   {
+	"id":"43",
+	 "sid":"2",
+	"name":"Electro Chemistry",
+	"attempt":"2",
+	"topic":"29"
+   },
+   {
+	"id":"44",
+	 "sid":"2",
+	"name":"Chemical Kinetics",
+	"attempt":"4",
+	"topic":"25"
+   },
+   {
+	"id":"45",
+	 "sid":"3",
+	"name":"Coordination Compounds",
+	"attempt":"4",
+	"topic":"25"
+   },
+   {
+	"id":"46",
+	 "sid":"3",
+	"name":"Surface Chemistry",
+	"attempt":"4",
+	"topic":"25"
+   }
+
+  ],
+  "topics": [
+    {
+	"id":"0",
+	"cid":"0",
+	"name":"Electric charges and their conservation",
+	"attempt":"4",
+	"subtopic":"25"	
+    },
+    {
+	"id":"1",
+	"cid":"0",
+	"name":"coulombs's law",
+	"attempt":"4",
+	"subtopic":"25"	
+    },
+    {
+	"id":"2",
+	"cid":"1",
+	"name":"Electric charges and their conservation",
+	"attempt":"4",
+	"subtopic":"25"	
+     
+    },
+    {
+	"id":"3",
+	"cid":"1",
+	"name":"Electric fileld",
+	"attempt":"4",
+	"subtopic":"25"	
+     
+    },
+    {
+	"id":"4",
+	"cid":"2",
+	"name":"conservation",
+	"attempt":"4",
+	"subtopic":"25"	
+    }
+  ],
+  "subtopics": [
+    {
+	"id":"0",
+	"tid":"0",
+	"name":"charges",
+	"attempt":"4",
+	"video":"link"
+    },
+    {
+	"id":"1",
+	"tid":"0",
+	"name":"coulombs's law",
+	"attempt":"4",
+	"video":"link"
+    }
+  ]
+}
